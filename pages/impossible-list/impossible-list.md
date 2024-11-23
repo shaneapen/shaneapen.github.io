@@ -14,6 +14,7 @@ An IMPOSSIBLE List grows with you over time. It's designed to help you push our 
 
 # Life 🏡
 - Change 1 person's life for the better
+- ~~Find the love of my life~~
 
 # Minimalism 🖊️
 
@@ -24,6 +25,7 @@ An IMPOSSIBLE List grows with you over time. It's designed to help you push our 
 
 - Participate in Tomatina
 - ~~Attend Coldplay concert~~
+- ~~Attend Alan Walker concert~~
 
 
 # Entrepreneurship 💰
