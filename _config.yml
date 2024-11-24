@@ -31,6 +31,7 @@ fb_appid:
 collections:
   posts:
     output: true
+    permalink: /posts/:title/
 
 # Markdown settings
 markdown: kramdown
