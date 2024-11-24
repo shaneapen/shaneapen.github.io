@@ -24,7 +24,7 @@ An IMPOSSIBLE List grows with you over time. It's designed to help you push our 
 # Events to Attend 👨🏻‍🎤
 
 - Participate in Tomatina
-- ~~Attend Coldplay concert~~
+- ~~Attend Coldplay concert~~ [[link](/coldplay/)]
 - ~~Attend Alan Walker concert~~
 
 
