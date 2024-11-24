@@ -22,7 +22,7 @@ author:
 
 # URL settings
 url: "https://shaneapen.github.io" #
-baseurl:
+baseurl: ""
 permalink: /:title/
 google_analytics: G-DJMJEDXK73 # leave it blank if not wish
 fb_appid:
