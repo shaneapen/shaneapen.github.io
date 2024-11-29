@@ -29,6 +29,7 @@ An IMPOSSIBLE List grows with you over time. It's designed to help you push our 
 
 
 # Entrepreneurship 💰
+- ~~Sell a digital good and earn $100~~
 - ~~Sell digital goods and generate $1000/mo~~
 - Sell a business
 
@@ -84,8 +85,15 @@ An IMPOSSIBLE List grows with you over time. It's designed to help you push our 
 - Visit Sagrada Família
 - Backpack Europe for 30 days
 - Backpack USA for 30 days
+- Kashmir Great Lakes Trek
+- ~~Party with strangers~~
 
 # Adrenaline Rushes 🎢
 - ~~Go bungee jumping [Completed at Goa in 2022]~~
 - Go sky diving
 - ~~Go parasailing [Completed at Langkawi in 2024 October]~~
+
+# Misc
+- ~~Buy a car while in college~~
+- Get a heavy license (for the feeling of what's it like to drive a bus)
+- Fly a plane
