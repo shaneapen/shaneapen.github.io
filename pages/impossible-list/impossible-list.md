@@ -76,7 +76,7 @@ An IMPOSSIBLE List grows with you over time. It's designed to help you push our 
     - ~~Karnataka~~
     - ~~Kerala~~
     - ~~Tamil Nadu~~
-    - Telangana  
+    - ~~Telangana~~
 - ~~Work from different state for 1 month~~
 - ~~Drive in a different country~~
 - ~~Fly business class~~
